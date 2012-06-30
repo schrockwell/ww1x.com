@@ -2,13 +2,16 @@
 layout: main
 ---
 
-<h2>
-	<a class="invisible" href="{{ post.url }}">
-		{{ page.date | date format: '%B %d, %Y' }} &ndash; 
-		{{ page.title }}
-	</a>
-</h2>
+<div class="prepend-2 span-20 append-2 last">
+	<h2>
+		<a class="invisible" href="{{ post.url }}">
+			{{ page.date | date format: '%B %d, %Y' }} &ndash; 
+			{{ page.title }}
+		</a>
+	</h2>
 
-{{ content }}
+	{{ content }}
 
-{% include disqus-post-comments.html %}
+	{% include disqus-post-comments.html %}
+	
+<div class="prepend-2 span-20 append-2 last">

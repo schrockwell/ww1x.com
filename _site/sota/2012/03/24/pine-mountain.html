@@ -10,8 +10,11 @@
 	<!--[if IE]><link rel="stylesheet" href="/styles/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
 	
 	<link rel="stylesheet" href="/styles/main.css" type="text/css">
-	
-	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
+	<link rel="stylesheet" href="/waveguide/stylesheets/jquery.lightbox-0.5.css" type="text/css" media="screen" title="no title" charset="utf-8">
+		
+	<script type="text/javascript" charset="utf-8" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+	<script src="/waveguide/scripts/jquery.lightbox-0.5.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/waveguide/scripts/waveguide.js" type="text/javascript" charset="utf-8"></script>
 	
 </head>
 <body onload="initialize()">
@@ -24,27 +27,27 @@
 	<div class="container" id="nv">
 		
 		<ul>
-			<li><a href="/">Latest</a></li>
-			<li><a href="/sota.html">Summits On The Air</a></li>
-			<!-- <li><a href="/diy.html">DIY</a></li> -->
-			<li><a href="/archive.html">Archive</a></li>
-			<li><a href="http://qrz.com/db/WW1X">About</a></li>
-			<li style="float:right"><a href="/waveguide/">WaveGuide for iOS</a></li>
+			<li><a href="/">Home</a></li>
+			<li><a href="/waveguide/">WaveGuide for iOS</a></li>
+			<div style="float:right">
+				<li><a href="http://qrz.com/db/KB1NTY">QRZ.com</a></li>
+				<li><a href="http://www.youtube.com/playlist?list=PL1A7BB56F52CF7701">YouTube</a></li>
+			</div>
 		</ul>
 		
 	</div>
 	
 	<div class="container" id="bd">
-		<div class="prepend-2 span-20 append-2 last">
 			
-			<h2>
-	<a class="invisible" href="">
-		March 24, 2012 &ndash; 
-		SOTA Activation of Pine Mountain
-	</a>
-</h2>
+		<div class="prepend-2 span-20 append-2 last">
+	<h2>
+		<a class="invisible" href="">
+			March 24, 2012 &ndash; 
+			SOTA Activation of Pine Mountain
+		</a>
+	</h2>
 
-<p style="text-align:center;"><iframe width="640" height="360" src="http://www.youtube.com/embed/cWIZEjPbfR0" frameborder="0" allowfullscreen></iframe></p>
+	<p style="text-align:center;"><iframe width="640" height="360" src="http://www.youtube.com/embed/cWIZEjPbfR0" frameborder="0" allowfullscreen></iframe></p>
 <ul>
 	<li><strong>Summary:</strong> <span class="caps">SSB</span> contest made QSOs tough, but squeezed out 4 QSOs for an activation point</li>
 	<li><strong>DX:</strong> Canada, Scotland</li>
@@ -54,7 +57,7 @@
 <p>The <span class="caps">WPX</span> <span class="caps">SSB</span> contest was going on this weekend, so the bands were jam-packed. Despite this, the <span class="caps">SOTA</span> chasers were resilient and came through to give me enough contacts for a successful activation. Thanks, guys!</p>
 <p>This was the first portable deployment of the Dummipole dipole system featured in the video. It is fully configurable to any band&#8212;-just cut the wire to length! No balun here. It functioned brilliantly on 15m tied to some trees at breast-height, and scored me a contact in Scotland.</p>
 
-<!-- Disqus -->
+	<!-- Disqus -->
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'amateur-radio';
@@ -68,13 +71,34 @@
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+	
+<div class="prepend-2 span-20 append-2 last">
 			
-		</div>
 	</div>
 	
 	
 	<div class="container" id="ft">
-		All content &copy; 2012 <a href="http://rockwellschrock.com/">Rockwell Schrock</a>. 
+		All content &copy; 2012 <a href="http://rockwellschrock.com/">Rockwell Schrock</a>, 
+		<a href="http://ww1x.com">WW1X</a>
+		&mdash;
+		
+		<script type="text/javascript">
+		//<![CDATA[
+		<!--
+		var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
+		"=48){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
+		".substr(0,ol);}f(\")01,\\\"U]WBHWt\\\\HZ010\\\\310\\\\000\\\\L130\\\\Q()530" +
+		"\\\\-8d{400\\\\:96z+c&'710\\\\?.n720\\\\w,$3/1da630\\\\,/\\\\\\\\020\\\\Er\\"+
+		"\\LMyIT410\\\\Z@_[P]r\\\\r020\\\\JNXA010\\\\F230\\\\700\\\\410\\\\MNDTvld<e" +
+		"~jcxodn\\\"(f};o nruter};))++y(^)i(tAedoCrahc.x(edoCrahCmorf.gnirtS=+o;721=" +
+		"%y;i=+y)01==i(fi{)++i;l<i;0=i(rof;htgnel.x=l,\\\"\\\"=o,i rav{)y,x(f noitcn" +
+		"uf\")"                                                                       ;
+		while(x=eval(x));
+		//-->
+		//]]></script>
+		
+		&mdash;
+		
 		Powered by <a href="http://jekyllrb.com/">Jekyll</a>.
 	</div>
 	
