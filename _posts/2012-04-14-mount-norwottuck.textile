@@ -1,0 +1,20 @@
+---
+layout: post
+title: SOTA Activation of Mount Norwottock
+summary: New homebrew Buddipole let me work the world, including first summit-to-summit
+published: true
+category: sota
+archived: false
+---
+
+p=. <iframe width="640" height="360" src="http://www.youtube.com/embed/MAXayivKYe0" frameborder="0" allowfullscreen></iframe>
+
+* *Summary:* Had good results on 20m and 17m today, including a summit-to-summit with Germany, and a station in Oman
+* *DX:* Germany, Oman
+* *U.S.:* MA, AR, WI, AL
+
+Ross and Jess joined me for this weekend's SOTA expedition in the Holyoke Range. This was the first portable deployment of my homemade Buddipole antenna system, and it was quite effective.
+
+I got to talk to many members of the SOTA Jerks for the first time, which was great. I started on 20m and shifted up to 17m to get away from the main bands a little bit. This opened up the door for a few more QSOs, including a summit-to-summit with German station "DL3SBA":http://qrz.com/db/dl3sba on the peak "DM/NW-135":http://www.sotawatch.org/summits.php?summit=DM/NW-135. I had tried to work him on 20m earlier with no success, so I'm glad he was able to find me when I switched bands.
+
+Another big contact, albeit on 100W, was with "A41MX":http://qrz.com/db/a41mx in Oman. I was tuned to an open frequency on 17m, chatting with another ham who happened to be hiking, when this signal popped up out of nowhere. I'm glad I snagged him before the pileup began.

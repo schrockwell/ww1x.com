@@ -1,0 +1,20 @@
+---
+layout: post
+title: SOTA Activation of Mount Tom
+summary: A long, hot hike, and a so-so 20m band, but all the more rewarding
+published: true
+category: sota
+archived: false
+---
+
+p=. <iframe width="640" height="360" src="http://www.youtube.com/embed/8N4Il78r2tw?rel=0" frameborder="0" allowfullscreen></iframe>
+
+* *Summary:* A long, hot hike, and a so-so 20m band, but all the more rewarding
+* *DX:* Scotland, Wales, France, Czech Republic
+* *U.S.:* MA, AR, OR, NC, NY
+
+This hike was a little more than we had bargained for. We got a late start and had to fight the sun and heat for this 2.5 mile hike out the summit that ran along the edge of the ridge, not offering much in the way of shade or places to take a break. However, the view of the valley was breathtaking.
+
+After 10 QSOs in just 25 minutes, we hoofed it back to the car just in time to make it out of the park before they locked up the gates for the night.
+
+The homebrew Buddipole performed well on 20m, as usual, and I ran 25 watts into it this time. I was lucky that I did not experience too much interference from the myriad of broadcast antennas atop the summit.

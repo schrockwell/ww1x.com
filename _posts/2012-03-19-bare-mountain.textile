@@ -1,0 +1,50 @@
+---
+layout: post
+title: First SOTA Activation on Bare Mountain 
+summary: 13 QSOs on 20m in tough band conditions, but a great day to be outside and work SOTA!
+published: true
+category: sota
+archived: false
+---
+
+p=. <iframe width="640" height="360" src="http://www.youtube.com/embed/ThNJOdhKpxk" frameborder="0" allowfullscreen></iframe>
+
+* *Summary:* 13 QSOs on 20m in tough band conditions, but a great day to be outside and work SOTA!
+* *DX:* Spain, England, Italy, Austria, German
+* *U.S.:* WI, MI, OR, AR, FL
+
+h3. SOTA Madness
+
+One video was all it took.
+
+You can thank my obsession with Summits On The Air on one "Steve Galchutt, WG0AT":http://www.qrz.com/db/WG0AT, also known as "the goat man". "His YouTube channel":http://www.youtube.com/user/goathiker/ is populated with dozens of videos of himself and his pack goats, Rooster and Peanut, pounding trails all over the west, working the world on SSB and CW with just a simple, portable setup.
+
+For some reason, this appealed to me. To me, this is very much in the spirit of amateur radio: pushing the limits of weight, power, and portability to new extremes, and spawning innovation.
+
+Plus, cute mountain goats.
+
+"Summits On The Air":http://www.sota.org.uk/ (SOTA) is a program that formalizes this endeavor, providing a framework for hikers (known as "activators") and those who spot them (the "chasers") to gain points and compete with one another. It's all in good fun, and the community appears to be very tightly-knit. Every day is an opportunity for a new activation and a new station to chase.
+
+Sales of <a href="/waveguide/">WaveGuide</a> enabled me to purchase my second HF radio, the "Yaesu FT-857D":http://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=8CBB7C4BDBAF40129AD4253A4987523C. Designed for mobile installations in cars, the 857 is very compact and feature-rich, and it even includes VHF and UHF bands. It's a perfect rig for hiking and portable operations.
+
+h3. Activation Time!
+
+The unseasonably-warm weather this March led to my first SOTA activation this weekend. My girlfriend, Jess, was kind enough to join me, helping to carry some of the gear. We chose Bare Mountain, in the Holyoke range, because we knew the parking area would be open, and it s a relatively short, albeit steep, hike. After summiting around noon and spending 45 minutes getting the stupid 20m dipole tangled in trees, I was ready to get on the air. There was only one problem.
+
+The microphone was back at the apartment.
+
+I had been messing around with digital modes the night before and testing some microphone connections to the PC, and had forgotten to reconnect the mic when I was done. So, it was back down the trail I went. It only took about an hour to hike down, drive home, retrieve, the mic, then drive back and hoof it back to the top.
+
+By 2:30 PM EDT (1830 UTC), I was set to go. Over the next hour, the QSOs came in waves, with many SOTA spotters reporting in. Signal reports varied from a barely-copyable 44 to booming 59's. The band was very fickle, with lots of signal fading occurring over the course of a conversation. I even encountered some intentional QRM in another language (slurred), but I just ignored it and moved to another frequency. It was annoying, but nothing to lose my cool over.
+
+h3. Aftermath
+
+My very first SOTA activation resulted in 13 QSOs on the 20 meter band, all of them SSB mode on just 5W of transmit power. This included DX stations in five other European countries, and five U.S. states.
+
+2 meter simplex on 146.52 was surprisingly quiet, and I didn't make any contacts on VHF. I guess everybody was outside enjoying the weather.
+
+I am extremely happy with how everything went. As far as radio conditions go, I could not have asked for more. I met some really great people on the air and made some cool connections within the SOTA community as a result of the above video, which I think came out really well. I already have another activation planned for next weekend, and I can't wait.
+
+Thank you to WG0AT for the fun videos and the inspiration to get involved in SOTA. Thank you to all the SOTA chasers who gave me awesome QSOs this weekend. 
+
+And thank you, Jess, for still dating me after this whole ordeal. I still think you're cuter than Rooster and Peanut.

@@ -1,0 +1,15 @@
+<div class="indexPost">
+	<h2>
+		<a class="invisible" href="/{{ post.url }}">
+			{{ post.date | date format: '%B %d, %Y' }} &ndash; 
+			{{ post.title }}
+		</a>
+	</h2>
+	
+	{{ post.content }}
+	
+	<p class="bottom quiet" style="font-style:italic;">
+		<a class="quiet" href="/{{ post.url }}#disqus_thread">View Comments</a>
+	</p>
+	<div style="clear:both"></div>
+</div>

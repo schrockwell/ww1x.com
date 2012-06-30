@@ -1,0 +1,20 @@
+---
+layout: post
+title: SOTA Activation of Pine Mountain
+summary: SSB contest made QSOs tough, but squeezed out 4 QSOs for an activation point
+published: true
+category: sota
+archived: false
+---
+
+p=. <iframe width="640" height="360" src="http://www.youtube.com/embed/cWIZEjPbfR0" frameborder="0" allowfullscreen></iframe>
+
+* *Summary:* SSB contest made QSOs tough, but squeezed out 4 QSOs for an activation point
+* *DX:* Canada, Scotland
+* *U.S.:* AR, ID
+
+Jess and I took to the hills for the second weekend in a row, this time near her home in southwestern Connecticut. Pine Mountain was an easy hike, but the peak was a little tricky to find because the trail did not lead directly to it.
+
+The WPX SSB contest was going on this weekend, so the bands were jam-packed. Despite this, the SOTA chasers were resilient and came through to give me enough contacts for a successful activation. Thanks, guys!
+
+This was the first portable deployment of the Dummipole dipole system featured in the video. It is fully configurable to any band---just cut the wire to length! No balun here. It functioned brilliantly on 15m tied to some trees at breast-height, and scored me a contact in Scotland.

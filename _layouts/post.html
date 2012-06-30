@@ -1,0 +1,14 @@
+---
+layout: main
+---
+
+<h2>
+	<a class="invisible" href="{{ post.url }}">
+		{{ page.date | date format: '%B %d, %Y' }} &ndash; 
+		{{ page.title }}
+	</a>
+</h2>
+
+{{ content }}
+
+{% include disqus-post-comments.html %}

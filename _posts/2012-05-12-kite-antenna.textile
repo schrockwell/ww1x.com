@@ -1,0 +1,17 @@
+---
+layout: post
+title: A 20 Meter Kite Antenna
+summary: Playing with a 20m end-fed kite antenna on Quabbin Hill
+published: true
+archived: false
+---
+
+p=. <iframe width="640" height="360" src="http://www.youtube.com/embed/UsJ2Copypuw?rel=0" frameborder="0" allowfullscreen></iframe>
+
+I've always wanted to try a wire antenna suspended by a kite. Conditions were ripe on this blustery spring afternoon to take the kite out for a fly on Quabbin Hill, site of my most recent SOTA activation.
+
+It's all in the video, but this was what I consider a rousing success. Here's what I would have done differently:
+
+* Get a bigger kite with more lift and possibly a higher flying angle
+* Use smaller-gauge stranded wire, which is lighter and easier for the kite to lift
+* Pick a day with steadier (less gusty) wind

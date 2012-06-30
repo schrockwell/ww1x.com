@@ -1,0 +1,15 @@
+---
+layout: main
+---
+
+{% for post in site.posts %}
+	{% if post.archived != true %}
+		{% include post-summary.html %}
+	{% endif %}
+{% endfor %}
+
+{% include disqus-comment-count.html %}
+
+<p style="font-size:1.5em">
+	<a href="/archive.html">View all posts</a>
+</p>
