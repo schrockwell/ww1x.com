@@ -1,0 +1,31 @@
+---
+layout: post
+title: VHF QSO Party 2012
+summary: 6m openings are fun!
+published: true
+archived: false
+---
+
+<div style="float:right;margin: 0 0 2em 2em">!https://lh4.googleusercontent.com/-kLKWgEY6q30/T-_bdh5yuhI/AAAAAAAADtU/B430s8eRfpo/s400/photo%25202.JPG!:https://picasaweb.google.com/lh/photo/6DDUitm0Hfg2EXWuGtTictMTjNZETYmyPJy0liipFm0?feat=directlink</div>
+ 
+Having only recently acquired a radio that supports 50 MHz, I didn't have a lot of experience on the lowest VHF band until now. In preparation, I constructed a modification to the homebrew Buddipole that converts it into a 3-element Yagi (plans forthcoming). All elements are Buddipole "Featherweight" telescopic whips that are lightweight, portable, and adjustable.
+
+Saturday afternoon I drove to my perennial radio spot: Mount Sugarloaf in Sunderland, Massachusetts. The state reservation boasts a 400 foot elevation gain over the surrounding area, with sheer cliffs and a great observation deck overlooking the Connecticut River valley. 
+
+Most importantly, it has a clear view of the west, south, and east.
+
+Saturday afternoon was fun. I operated from the mountain from the beginning of the contest, 1800Z, until to 2230Z (2 to 6:30 PM local time). Most contacts were local, but a number of Florida stations soon came through! I packed it up with 53 SSB QSOs under my belt, most of them 100W. I also pulled out the 2m tape measure Yagi and had some fun with local contacts on FM and SSB.
+
+<div style="float:left;margin: 2em 2em 2em 0"> !https://lh3.googleusercontent.com/-DJxRHuIPsik/T-_bd2t811I/AAAAAAAADtc/zbMOUAI2Zu8/s400/photo%25203.JPG!:https://picasaweb.google.com/lh/photo/Tzkeo0G6d6ADzKOvPk3oiNMTjNZETYmyPJy0liipFm0?feat=directlink</div>
+
+I hopped on again Sunday afternoon around 2100Z, this time portable on the lawn outside my apartment. The band was dead, dead, dead. I had a nice ragchew with Thomas, KA1MDA, to pass the time. 
+
+Then, things started happening.
+
+First, Thomas worked MW0ZZK in Wales and pointed me to his frequency. Just like that, I got my first DX VHF contact. Next was W0OGH in Arizona. Suddenly Canada, Alabama, Nevada, and Montana all started rolling in. I continued to knock out QSOs until the sun went down and my battery was finally drained, which was around 0115Z. 
+
+It was amazing to hear different "hot spots" come in from around the country. Sometimes the signal fading was so severe at times that a station would disappear in the time it took me to send my callsign. Such is the nature of the Magic Band, I suppose.
+
+In all, I made 104 QSOs in 50 grid squares for a total of 5200 points. 14 of those contacts were on 2m (2 FM), and the rest were 6m SSB at 100W.
+
+With VHF antennas being so small, this was a fun contest to operate portable. The 6m beam really proved its worth, and I was surprised to get 4.5 hours out of the battery running 100W the entire time. I probably could have gotten by with lower power, but at least now I have a good benchmark.
