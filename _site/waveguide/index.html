@@ -1,118 +1,141 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
-   "http://www.w3.org/TR/html4/strict.dtd">
-
-<html lang="en">
+<!DOCTYPE html>
+<html>
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>WaveGuide - HF Propagation Mapping for iPhone and iPad</title>
-	<meta name="generator" content="TextMate http://macromates.com/">
-	<meta name="author" content="Rockwell Schrock">
+	<title>WW1X  &ndash; WaveGuide for iOS </title>
 	
-  <link rel="stylesheet" href="stylesheets/blueprint/screen.css" type="text/css" media="screen, projection">
-  <link rel="stylesheet" href="stylesheets/blueprint/print.css" type="text/css" media="print">
-  <!--[if lt IE 8]><link rel="stylesheet" href="stylesheets/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
-	<link rel="stylesheet" href="stylesheets/jquery.lightbox-0.5.css" type="text/css" media="screen" title="no title" charset="utf-8">
-
-	<link rel="stylesheet" href="stylesheets/waveguide.css" type="text/css" media="screen" charset="utf-8">
-
+	<link rel="alternate" title="" type="application/atom+xml" href="/atom.xml">
+	
+	<link rel="stylesheet" href="/styles/blueprint/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="/styles/blueprint/print.css" type="text/css" media="print">	
+	<!--[if IE]><link rel="stylesheet" href="/styles/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+	
+	<link rel="stylesheet" href="/styles/main.css" type="text/css">
+	<link rel="stylesheet" href="/waveguide/stylesheets/jquery.lightbox-0.5.css" type="text/css" media="screen" title="no title" charset="utf-8">
+		
 	<script type="text/javascript" charset="utf-8" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
-	<script src="scripts/jquery.lightbox-0.5.min.js" type="text/javascript" charset="utf-8"></script>
-	<script src="scripts/waveguide.js" type="text/javascript" charset="utf-8"></script>
-
+	<script src="/waveguide/scripts/jquery.lightbox-0.5.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/waveguide/scripts/waveguide.js" type="text/javascript" charset="utf-8"></script>
+	
 </head>
-<body>
+<body onload="initialize()">
+	
 
-	<div class="container" style="margin-top: 2em">
+	<div class="container" id="hd">
 		
+	</div>
+	
+	<div class="container" id="nv">
+		
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/waveguide/">WaveGuide for iOS</a></li>
+			<div style="float:right">
+				<li><a href="http://qrz.com/db/WW1X">QRZ.com</a></li>
+				<li><a href="http://www.youtube.com/playlist?list=PL1A7BB56F52CF7701">YouTube</a></li>
+				<li><a href="http://twitter.com/WW1X/">Twitter</a></li>
+			</div>
+		</ul>
+		
+	</div>
+	
+	<div class="container" id="bd">
+			
+		<div style="font-size: 0.8em">
+	<div class="prepend-1 span-22 append-1 last" style="margin-bottom: 1em">
 		<img src="images/wg-icon-72.png" width="72" height="72" alt="WaveGuide Icon" style="float:left">
-		
+
 		<div style="float: left; padding-left: 2em">
-			<h1 style="font-weight:bold; margin-bottom: 0.15em; margin-top: 0.1em; letter-spacing: -1px"> WaveGuide</h1>
+			<h1 style="font-weight:bold; margin-bottom: 0em; margin-top: 0em; letter-spacing: -1px"> WaveGuide</h1>
 			<div style="color: #999999; display:inline; font-size: 1.5em">
-				Real-time HF propagation conditions for iPhone and iPad
+				Real-time HF propagation conditions for iOS
 			</div>			
 		</div>
-		
+
 		<a href="http://itunes.apple.com/us/app/waveguide/id483066722?ls=1&mt=8" style="float:right; display:inline-block; margin-top: 0; text-align: center; font-size: 1.25em;">
 			<img src="images/app-store-button.png" width="160" height="56" alt="App Store Button">
 			<div style="position: relative; top:-3px">
 				Download now
 			</div>
-		</a> 
-		
-	</div>
-
-	<div class="container" style="margin-top: 3em">
-		
-		<div class="span-13 append-1" style="text-align: center; font-size: 1.25em">
-			<a id="screenshot-link" href="images/screenshots/ipad-1.png">
-				<img src="images/screenshots/ipad-1-medium.png" alt="Big Screenshot" id="screenshot">
-				<br />
-				Click to enlarge
-			</a>
-		</div>
-		
-		<div class="span-10 last" style="margin-top: 2.5em">
-			<div id="ipad-thumbs">
-				<a id="ipad-1"><img src="images/screenshots/ipad-1-thumb.png" width="180" height="139" alt="iPad Thumbnail"></a>
-				<a id="ipad-2"><img src="images/screenshots/ipad-2-thumb.png" width="180" height="139" alt="iPad Thumbnail"></a>
-			</div>
-			<div id="iphone-thumbs">
-				<a id="iphone-1"><img src="images/screenshots/iphone-1-thumb.png" width="74" height="139" alt="iPhone Thumbnail"></a>
-				<a id="iphone-2"><img src="images/screenshots/iphone-2-thumb.png" width="74" height="139" alt="iPhone Thumbnail"></a>
-				<a id="iphone-3"><img src="images/screenshots/iphone-3-thumb.png" width="74" height="139" alt="iPhone Thumbnail"></a>
-			</div>
-		</div>
-		
-	</div>
+		</a>
 	
-	<div class="container" style="margin-top: 2em; font-size: 1.25em">
-		
-		<div class="span-13 append-1">
-			<h4 style="line-height: 1.5em">WaveGuide is the amateur radio operator's ultimate utility for determining HF propagation conditions, whether you're in the shack with your linear or QRP mountaintopping.</h4>
+	</div>
 
-			<p>Designed from the ground up as a Universal app that works on both iPhone and iPad, WaveGuide is easy, fun, and powerful.</p> 
+	<div class="prepend-1 span-10 append-1" style="text-align: center; font-size: 1.25em; margin-bottom: 2em">
+		<a id="screenshot-link" href="images/screenshots/ipad-1.png">
+			<img src="images/screenshots/ipad-1-medium.png" alt="Big Screenshot" id="screenshot">
+			<br />
+			Click to enlarge
+		</a>
+	</div>
 
-			<p>Utilizing data from the popular <a href="http://pskreporter.info/">PSKReporter</a> database, WaveGuide plots real-time propagation conditions, connecting stations with great circles to show exactly where band conditions are best.</p>
-
-			<p>The colors of the great circles indicate the band, so it's easy to visually determine how the ionosphere is behaving anywhere in the world.</p>
+	<div class="span-11 append-1 last" style="margin-top: 2.5em">
+		<div id="ipad-thumbs">
+			<a id="ipad-1"><img src="images/screenshots/ipad-1-thumb.png" width="180" height="139" alt="iPad Thumbnail"></a>
+			<a id="ipad-2"><img src="images/screenshots/ipad-2-thumb.png" width="180" height="139" alt="iPad Thumbnail"></a>
 		</div>
-		
-		<div class="span-10 last">
+		<div id="iphone-thumbs">
+			<a id="iphone-1"><img src="images/screenshots/iphone-1-thumb.png" width="74" height="139" alt="iPhone Thumbnail"></a>
+			<a id="iphone-2"><img src="images/screenshots/iphone-2-thumb.png" width="74" height="139" alt="iPhone Thumbnail"></a>
+			<a id="iphone-3"><img src="images/screenshots/iphone-3-thumb.png" width="74" height="139" alt="iPhone Thumbnail"></a>
+		</div>
+	</div>
+
+	<div style="font-size: 1.25em" class="clear">
+		<div class="prepend-1 span-10 append-1">
+			<h4 style="line-height: 1.5em">WaveGuide is the amateur radio operator's ultimate utility for determining HF propagation conditions at the touch of a finger.</h4>
+
+			<p>Utilizing data from popular DX clusters like <a href="http://pskreporter.info/">PSK Reporter</a>, <a href="http://www.dxwatch.com/">DX Watch</a> <span class="new"></span>, and <a href="http://www.reversebeacon.net/">Reverse Beacon Network</a> <span class="new"></span>, WaveGuide plots real-time propagation conditions on a global map, connecting stations with great circles to show exactly where band conditions are best. 
+			</p>
 			
+			<p>The colors of the great circles indicate the band, so it's easy to visually determine how the ionosphere is behaving anywhere in the world.</p> 
+
+			<p>WaveGuide was designed from the ground-up as a Universal app that works great on all iOS devices, including iPad, iPhone, and iPod Touch.</p>
+		</div>
+	
+		<div class="span-11 append-1 last">
+		
 			<h4>Features</h4>
 			
-			<p>Filter by band, callsign, grid square, mode, and period</p>
-			<p>View details for each transmission, including time, DXCC entity, frequency, distance, and bearing</p>
-			<p>Display all signals at once, or just signals from one station</p>
-			<p>Find the best PSK31 frequencies to monitor at your QTH</p>
+			<ul class="features">
+				<li>Filter your search by parameters such as band, callsign, grid square, mode, and time period.</li>
+				<li>View details for each transmission, including time, DXCC entity, frequency, distance, and bearing.</li>
+				<li>Find your current Maidenhead grid locator using the GPS receiver on your iOS device.</li>
+				<li>Check on space weather indices and images. <span class="new"></span></li>
+				<li>Overlay the gray line on the map.</li>
+			</ul>
 			
+		
 			<h4>Some Example Uses</h4>
-			
-			<p>See how band conditions fluctuate worldwide throughout the course of the day.</p>
-			<p>Chase DX by finding transmissions in your grid square.</p>
-			<p>Track signals received by your home station while you're away. How many countries can you collect?</p>
-			
+		
+			<ul class="features">
+				<li>See how band conditions fluctuate worldwide throughout the course of the day.</li>
+				<li>Chase rare DX stations using the DX Watch cluster. <span class="new"></span></li>
+				<li>Find out if that new antenna is really getting out: tap out your callsign in CW and see who picks you up on the Reverse Beacon Network. <span class="new"></span></li>
+				<li>Using PSK Reporter, track signals received by your home station while you're away. How many countries can you collect?</li>
+			</ul>
+		
 		</div>
-		
-	</div>
 	
-	<div class="container">
-		
+	</div>
+
+	<div class="span-24 clear" style="margin-bottom: 2em">
 		<div style="text-align:center">
-			<a href="http://itunes.apple.com/us/app/waveguide/id483066722?ls=1&mt=8" style="font-size: 2em; font-weight: bold; display: block">
+			<a href="http://itunes.apple.com/us/app/waveguide/id483066722?ls=1&mt=8" style="font-size: 2em; font-weight: bold; display: block; text-decoration: none">
 				<img src="images/app-store-icon.png" width="59" height="58" alt="App Store Icon" style="position: relative; top: 0.8em; margin-right: 1em">
 				Available now for just $2.99 on the iOS App Store
 			</a>
 		</div>
-		
+	
+	</div>
+</div>
+
+			
 	</div>
 	
-	<div class="container" style="margin: 3em auto; text-align: center; font-size: 1.25em">
-		
-		Created by Rockwell Schrock, 
-		<a href="http://ww1x.com">WW1X</a> 
-		
+	
+	<div class="container" id="ft">
+		All content &copy; 2012 <a href="http://rockwellschrock.com/">Rockwell Schrock</a>, 
+		<a href="http://ww1x.com">WW1X</a>
 		&mdash;
 		
 		<script type="text/javascript">
@@ -130,19 +153,24 @@
 		//-->
 		//]]></script>
 		
+		&mdash;
+		
+		Powered by <a href="http://jekyllrb.com/">Jekyll</a>.
 	</div>
 	
-	<!--- Google Analytics --->
+</div>
 
-	<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script>
-	<script type="text/javascript">
-	var pageTracker = _gat._getTracker("UA-4760872-1");
-	pageTracker._initData();
-	pageTracker._trackPageview();
-	</script>
-	
+<!-- Google Analytics -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4760872-7");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
 </body>
 </html>

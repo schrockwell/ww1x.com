@@ -79,6 +79,21 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 1.25em;
 }
 
+.new:before {
+	content: "NEW";
+}
+
+.new {
+	background-color: #07C;
+	color: white;
+	font-size: 0.6em;
+	text-transform: uppercase;
+	padding: 0em 0.5em;
+	display: inline-block;
+	vertical-align: top;
+	border-radius: 3px;
+}
+
 div.yearCallout {
 	border: 1px solid #eea; 
 	padding: 1.5em 2em 0 2em; 
@@ -147,6 +162,11 @@ ul.archive li {
 ul.archive li a {
 	font-size: 1.25em;
 	font-weight: bold;
+}
+
+ul.features li {
+	margin-bottom: 0.5em;
+	list-style: square;
 }
 
 /*** panels ***/
