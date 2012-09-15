@@ -1,0 +1,39 @@
+---
+layout: post
+title: Astatic 987L rewiring
+summary: Giving a $5 hamfest mic a second life
+published: true
+archived: false
+---
+
+p=. !https://lh6.googleusercontent.com/-8C5qTP8scZQ/UFPuAqLEa0I/AAAAAAAADuk/YLnYrsZWUXw/s640/photo%25202%2520%25282%2529.JPG!:https://picasaweb.google.com/lh/photo/K2Sov_2DjWZ7Noitd008ZdMTjNZETYmyPJy0liipFm0?feat=directlink
+
+This weekend I went to the Western Connecticut Hamfest in Newtown, CT. Browsing the vendors, refraining from spending lots of money on stuff I could build myself, I wound up with a handful of ferrite chokes (you can never have too many!). I wandered past an elmer who advertised, 
+
+"Five bucks for anything on the table." 
+
+I picked up a microphone. "Does this thing work?"
+
+"As far as I know."
+
+And so I acquired an Astatic 987L.
+
+The microphone had a five-pin circular connector that wasn't very helpful for any of my rigs. With a desire to connect it to my FT-857D, I met up with a friend today who was proficient with RJ-45 connectors and had the fancy crimping tool. I could not find a shred of documentation for this particular microphone, so we gutted it to determine the wire connections. Here's what we found:
+
+|_. Color |_. Connection |_. FT-857 Pin |
+| Black | Transmit | 3 |
+| Red | Monitor | N/C |
+| White | Audio | 4 |
+| Shield | Ground|2 |
+| Blue | N/C | N/C |
+| Yellow | N/C | N/C |
+
+Unlike most Astatic microphones, the blue and shield are NOT grounded together. Blue was simply not connected at all. Yellow was N/C as well, which is common for Astatic microphones.
+
+p=. !https://lh3.googleusercontent.com/-ET__8kxNork/UFPuA2-YH5I/AAAAAAAADus/PXE8OmCshuc/s640/photo%25201%2520%25283%2529.JPG!:https://picasaweb.google.com/lh/photo/L5gaNoTxlM5d-_-lILWNPtMTjNZETYmyPJy0liipFm0?feat=directlink
+
+The low impedance matches the FT-857 well, and it sounds as well as you can expect a 40-year-old communication microphone to sound attached to a connector that didn't even exist when it was created. It lacks the high end of the stock hand microphone, but has a great response and is arguably a little more punchy which will be great for HF.
+
+The first QSO on the new rig was Nigeria. Not bad!
+
+We had to through a read Wikipedia article a few times to figure out what, exactly the "Monitor" lock was for. It signaled the radio to disable the tone squelch before the operator began to transmit. That way, if someone was on the frequency but was using a separate tone or no tone at all, their presence would be known by the operator at that time and they would not inadvertently cause QRM. Pretty cool. 

@@ -4,13 +4,69 @@
  <title>The Suck Zone</title>
  <link href="http://ww1x.com/atom.xml" rel="self"/>
  <link href="http://ww1x.com/"/>
- <updated>2012-09-05T13:32:22-04:00</updated>
+ <updated>2012-09-14T23:06:26-04:00</updated>
  <id>http://ww1x.com/</id>
  <author>
    <name>Rockwell Schrock</name>
    <email>schrockwell@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Astatic 987L rewiring</title>
+   <link href="http://ww1x.com/2012/09/13/astatic-987l.html"/>
+   <updated>2012-09-13T00:00:00-04:00</updated>
+   <id>http://ww1x.com{ post.id }}</id>
+   <content type="html">&lt;p style=&quot;text-align:center;&quot;&gt;&lt;a href=&quot;https://picasaweb.google.com/lh/photo/K2Sov_2DjWZ7Noitd008ZdMTjNZETYmyPJy0liipFm0?feat=directlink&quot;&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/-8C5qTP8scZQ/UFPuAqLEa0I/AAAAAAAADuk/YLnYrsZWUXw/s640/photo%25202%2520%25282%2529.JPG&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This weekend I went to the Western Connecticut Hamfest in Newtown, CT. Browsing the vendors, refraining from spending lots of money on stuff I could build myself, I wound up with a handful of ferrite chokes (you can never have too many!). I wandered past an elmer who advertised,&lt;/p&gt;
+&lt;p&gt;&amp;#8220;Five bucks for anything on the table.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;I picked up a microphone. &amp;#8220;Does this thing work?&amp;#8221;&lt;/p&gt;
+&lt;p&gt;&amp;#8220;As far as I know.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;And so I acquired an Astatic 987L.&lt;/p&gt;
+&lt;p&gt;The microphone had a five-pin circular connector that wasn&amp;#8217;t very helpful for any of my rigs. With a desire to connect it to my FT-857D, I met up with a friend today who was proficient with RJ-45 connectors and had the fancy crimping tool. I could not find a shred of documentation for this particular microphone, so we gutted it to determine the wire connections. Here&amp;#8217;s what we found:&lt;/p&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;th&gt;Color &lt;/th&gt;
+		&lt;th&gt;Connection &lt;/th&gt;
+		&lt;th&gt;FT-857 Pin &lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Black &lt;/td&gt;
+		&lt;td&gt; Transmit &lt;/td&gt;
+		&lt;td&gt; 3 &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Red &lt;/td&gt;
+		&lt;td&gt; Monitor &lt;/td&gt;
+		&lt;td&gt; N/C &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; White &lt;/td&gt;
+		&lt;td&gt; Audio &lt;/td&gt;
+		&lt;td&gt; 4 &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Shield &lt;/td&gt;
+		&lt;td&gt; Ground&lt;/td&gt;
+		&lt;td&gt;2 &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Blue &lt;/td&gt;
+		&lt;td&gt; N/C &lt;/td&gt;
+		&lt;td&gt; N/C &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Yellow &lt;/td&gt;
+		&lt;td&gt; N/C &lt;/td&gt;
+		&lt;td&gt; N/C &lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;Unlike most Astatic microphones, the blue and shield are &lt;span class=&quot;caps&quot;&gt;NOT&lt;/span&gt; grounded together. Blue was simply not connected at all. Yellow was N/C as well, which is common for Astatic microphones.&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;&lt;a href=&quot;https://picasaweb.google.com/lh/photo/L5gaNoTxlM5d-_-lILWNPtMTjNZETYmyPJy0liipFm0?feat=directlink&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-ET__8kxNork/UFPuA2-YH5I/AAAAAAAADus/PXE8OmCshuc/s640/photo%25201%2520%25283%2529.JPG&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The low impedance matches the FT-857 well, and it sounds as well as you can expect a 40-year-old communication microphone to sound attached to a connector that didn&amp;#8217;t even exist when it was created. It lacks the high end of the stock hand microphone, but has a great response and is arguably a little more punchy which will be great for HF.&lt;/p&gt;
+&lt;p&gt;The first &lt;span class=&quot;caps&quot;&gt;QSO&lt;/span&gt; on the new rig was Nigeria. Not bad!&lt;/p&gt;
+&lt;p&gt;We had to through a read Wikipedia article a few times to figure out what, exactly the &amp;#8220;Monitor&amp;#8221; lock was for. It signaled the radio to disable the tone squelch before the operator began to transmit. That way, if someone was on the frequency but was using a separate tone or no tone at all, their presence would be known by the operator at that time and they would not inadvertently cause &lt;span class=&quot;caps&quot;&gt;QRM&lt;/span&gt;. Pretty cool.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>SOTA Activation of Mount Toby</title>
