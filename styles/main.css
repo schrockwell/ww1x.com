@@ -239,3 +239,31 @@ ul.panels a:hover span {
 #iphone-thumbs a:hover {
 	padding: 4px 27px;
 }
+
+/*** Resources ***/
+
+ul.resource {
+	display: block;
+	width: 420px;
+	padding-right: 10px;
+	float: left;
+	margin: 0;
+	list-style: none;
+	margin-bottom: 1em;
+}
+
+ul.resource h3 {
+	background-color: #111;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 0.15em;
+	font-size: 1em;
+	padding: 0.25em 0.5em;
+	font-weight: normal;
+	margin-bottom: 0.5em;
+}
+
+ul.resource li {
+	list-style: none;
+}
+
