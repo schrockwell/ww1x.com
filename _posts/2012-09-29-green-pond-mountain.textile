@@ -1,0 +1,37 @@
+---
+layout: post
+title: SOTA Activation of Green Pond Mountain
+summary: Bushwhacked to the top and had fun on 10m
+published: true
+category: sota
+archived: false
+---
+
+p=. <iframe width="640" height="360" src="http://www.youtube.com/embed/RgOgeF2oNdY?rel=0" frameborder="0" allowfullscreen></iframe>
+
+|_.Time|_.Call|_.Band|_.Mode|_.Notes|
+|15:34z|OH7CW|28MHz|SSB|5W|
+|16:00z|IZ8CGS|28MHz|SSB|25W|
+|16:07z|W0FD|28MHz|SSB|Mike in CO, 25W|
+|16:15z|IK5CBE|28MHz|SSB|Beppe in Italy, 25W|
+|16:38z|SP7HKK|28MHz|SSB|Voy in Poland, 25W|
+|16:49z|K7GED|28MHz|SSB|Idaho State, 5W|
+|16:53z|WN0ARD|28MHz|SSB|Virgil in CO, 5W|
+|17:10z|I1YDT|28MHz|SSB|5W|
+|17:13z|WG0AT|28MHz|SSB|Steve in CO, 5W|
+|17:15z|K0REQ|28MHz|SSB|Roy, 5W|
+|17:35z|K5PBA|21MHz|SSB|TX QSO Party, op David|
+|17:37z|WN5TL|21MHz|SSB|5W|
+|17:42z|AJ5C|21MHz|SSB|Bob in AR|
+|17:45z|G4ELZ|21MHz|SSB||
+|17:46z|K0LAF|21MHz|SSB|5W|
+|17:48z|M0BKV|21MHz|SSB|Damien, 25W|
+|17:49z|G0RQL|21MHz|SSB|Don, 25W|
+|17:54z|OM1AX|21MHz|SSB|25W|
+|17:55z|KY7K|21MHz|SSB|25W|
+|17:56z|G0TRB|21MHz|SSB|25W|
+|17:59z|N7KN|21MHz|SSB|25W|
+|18:04z|WY0Q|21MHz|SSB|Missouri, 25W|
+|18:05z|NS7P|21MHz|SSB|25W|
+|18:22z|KB1VFG|144MHz|FM|Jim in Watertown, CT, 10W|
+|18:25z|N2FVB|144MHz|FM|Ralph mobile near I-84 and I-684 in NY|
