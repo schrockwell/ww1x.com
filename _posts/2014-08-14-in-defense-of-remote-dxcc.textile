@@ -1,0 +1,152 @@
+---
+layout: post
+title: In Defense of Remote Operation for DXCC Credit
+summary: The DXAC will stymie on-air activity by restricting the use of remote stations for DXCC credit.
+published: true
+category: opinion
+archived: false
+comments: false
+---
+
+<div style="float: right; width: 40%; margin: 0 0 1em 1em; padding: 1em; border: 1px solid #faebcc; background-color:#fcf8e3; font-size: 1.2em">The DXAC is making uninformed decisions that adversely affect every one of us. Please "contact your regional DXAC representative":dxac and let them know that section I.9 of the DXCC rules should NOT be changed to restrict remote station use.</div>
+
+The DX Century Club (DXCC) is one of the oldest and most recognized awards in amateur radio. The premise is simple: confirm contacts with one hundred unique countries, receive an award.
+
+Of course, it's a bit more complicated than that. There is "a modest set of well-defined rules":dxcc-rules governing the conditions under which contacts may be confirmed for credit towards the DXCC award. Occasionally the ARRL reviews these rules and modernizes them, respective to the current landscape of amateur radio operation.
+
+It is the job of the Program and Services Committee (PSC) to "advise Chief Executive Officer on services provided to individual members other than publications, including but not limited to contests and awards." Basically, the PSC make the rules for DXCC.
+
+h3. Recent developments
+
+In "July 2013":jul2013, the PSC tasked the DX Advisory Committee (DXAC):
+
+bq. [...] to perform a comprehensive review of the DXCC Rules and recommend changes that may be warranted. [...] Of particular concern to the PSC was the increasing use of remote control stations by the amateur community and the affect such use has on the DXCC Program.
+
+In July 2014, the DXAC presented "their recommendations":jul2014 to the PSC. 
+
+As both an avid user of remote stations and the lead developer of "RemoteHamRadio.com":rhr, I believe that these suggestions are uninformed, misguided, and detrimental to the future of our hobby. 
+
+In this post I'd like to explore why these specific rule changes are so poor, as well as illustrate why any similar changes to DXCC rules are equally harmful.
+
+h3. Proposed changes to Section I.8
+
+From the July 2014 report:
+
+bq. Dave Patton, NN1N proposed a draft change to delete the second sentence requiring remote control operating points must be "land based" [...] The DXAC agrees with the draft change proposed by NN1N.
+
+This proposition is actually a step in the right direction. It shows that the DXAC has a basic understanding of how remote stations work, and that the primary advantage of such a station is that the operator need not be colocated with the transceiver.
+
+What is most baffling about this statement is how its brief moment of clarity flies in the face of what follows.
+
+h3. Proposed changes to Section I.9
+
+Here is the conclusion drawn by the DXAC from that same July 2014 paper (emphasis mine):
+
+bq. The DXAC favored the proposed change of rule I.9, stating, however, some distance limitation should be included for the remote station. Using an idea similar to that used for contest stations, *establishing a distance of 200km separation between the remote station and the operator's home station location and that no part of a remote station can be located more than 200km from any other part.*
+
+In other words, the DXAC wants to limit the use of remote stations to a (completely arbitrary) 200 km maximum distance between the remote station location and some undefined "home station" location.
+
+Let's step back and read some of the discussion leading up to this absurd and unrealistic proposal.
+
+bq. To examine this issue, one must read the Introduction to the ARRL DXCC Rules. The third paragraph, third sentence that states "Individual achievement is measured by working and confirming the various entities comprising the DXCC List." Most DXers would describe this sentence as meaning the use of an amateur's home station.
+
+Not only is there an unsubstantiated fact that "most DXers" would come to this conclusion, there are many examples of where this is blatantly untrue. What about when an operator works a new country at a friend's station, or at a club-owned station? Certainly those contacts should still count towards the DXCC total. There is nothing in the "individual achievement" sentence that suggests precluding DXCC credit any of those circumstances.
+
+What is the definition of a "home station"? Hams all over the U.S. live in apartments or restrictive HOAs, probably with no home station to speak of. I'm writing this from my first-floor apartment in northern California, where I operate 100% remotely. Should I be excluded from DXCC just because of my living situation?
+
+Indeed, this point is acknowledged, but ignored afterwards:
+
+bq. Most will say that using a remote station will allow an operator to enjoy amateur radio, including working DX, if they are prevented from doing so due to restrictions at their residence.
+
+Next, the DXAC attempts to delineate between two types of remote stations:
+
+bq. 1. The first remote station is built by an individual for their own use. [...] In this case, building a station in the local area (local area may vary but usually would not mean "hundreds" of miles or greater). Or their home station is capable of remote operations when the operator travels away from home.
+
+bq. 2. The second remote station is one built by other individuals that are not located in the operator's local area. [...]
+
+The biggest problem with this designation is the implied connection between station ownership and the station's distance from a home location. 
+
+Off the top of my head, I can name four big DXers whose personally-constructed remote stations are more than 200 kilometers from their FCC-registered callsign address. Their contacts would be nullified, even though they did what the DXAC believes is "the right thing" by constructing their own personal remote stations to get around antenna limitations and restrictions at home.
+
+Additionally, it does not make sense to limit operation by station ownership. As mentioned before, this would exclude club stations, friends' stations, and even those shacks you can rent for vacation. None of these restrictions on DXCC contacts exist to this day. It would be ridiculous and unenforcable.
+
+h3. 200 km or bust
+
+Having established that the DXAC's grasp on the situation is cursory at best, what are some outcomes if such a proposal were to pass?
+
+At its inception, DXCC rules stated that all contacts must be made within a 150 mile radius of the initial contact location. That all changed in 1977 when the rule was changed so that all contacts could be made from transmitters within the same DXCC entity. Recognizing that the U.S. population was becoming increasingly mobile, the ARRL wisely loosened the restrictions to accomodate this.
+
+Imposing a new "maximum radius" requirement would be in direct contradiction with how DXCC currently operates. It is a major step backward from the precedent set by the 1977 decision. Operating a remote station isn't any different than traveling a long distance to operate from a different location in the same DXCC entity. They are creating the same problem that was already solved 37 years ago. How quickly we forget.
+
+Then there is the question of enforcement and ethicality. Sure, there will always be folks who "cheat" at DXCC: a QSL card exchanged behind the back here, a 10 KW amplifier there, and so on. We can all agree that they are only cheating themselves by cheapening the value of their achievement. But putting restrictions on remote operation is completely unnecessary and unenforcable by the ARRL. All it does is is create problems for rule-abiding operators.
+
+I have a couple more bones to pick. It is unbelievable that the DXAC basically refers to the RemoteHamRadio business in every way possible except by actual name. They are singling out an individual business with the direct intention of cutting us down. It is sad and disappointing.
+
+One would think that the DXAC, given an entire year to research the topic of remote operation, would have contacted RemoteHamRadio, arguably the most knowledegable and technologcally-advanced remote operation in the entire hobby. However, we did not receive a single inquiry for input from any of the DXAC members.
+
+h3. The concept of fairness
+
+I would be remiss of me to finish this out without addressing the nagging question of "fairness" for remote operations in DXCC.
+
+DXCC is not a contest. It's not a competition. There are no winners or losers. It's a personal achievement award, plain and simple. There is no level playing field - it's every operator for himself. The guy with the attic dipole is going for the same award as his neighbor with the tribander on a tower. Both are doing it out of individual satisfaction - for the rush of chasing DX, working that new country, and receiving a personalized award to hang proudly in the shack.
+
+A contest has the exact opposite mentality. There are many subdivisions and restrictions within contests: by number of operators, by number of radios, by band, power level, and geographic region. In this case, it makes perfect sense to make the best effort to level the playing field so that competitors can be fairly ranked - it's a _contest_ after all.
+
+So you see, the question of _fairness_ has very little weight in the discussion of DXCC. How one operator achieved his award does not diminish nor enhance the value of another's award.
+
+In the same vein, it is preposterous to claim that remote stations have a "propagation advantage." Besides the aforementioned arguments regarding archaic DXCC distance rules, how does one station's location affect it compared to other traits? For example, consider the station's power level, the size of its antennas, or the capabilities of its transceiver. These could all be considered "propagation advantages", but DXCC doesn't say anything about them. Because propagation is so unpredictable and sporadic, a remote station has exactly the same propagation advantages (and disadvantages!) as a so-called "home" station. 
+
+h3. Closing remarks
+
+"In 2008":pillar, the ARRL added a fifth pillar to its core mission of four pillars. The four original pillars were:
+
+* Public Service
+* Advocacy
+* Education
+* Membership
+
+The newest pillar?
+
+* Technology
+
+The ARRL acknowledges that "technology supports virtually everything we do, and as time went on we realized that it deserved its own pillar." This seems logical. But the whole pillar thing, originally concocted in 2005, seems like the brainchild of some marketing expert. Let's go a little deeper and examine the core of the ARRL - its "Articles of Assocation":arrl:
+
+bq. The purposes for which our corporation is formed are the following: the promotion of interest in Amateur Radio communication and experimentation; [...] the advancement of the radio art; the fostering and promotion of noncommercial intercommunication by electronic means throughout the world; [...] the promotion and conduct of research and development to further the development of electronic communication; [...]
+
+It's all there in print. It is the ARRL's job to promote cool new high-tech means of communicaiton. It's their duty to promote on-air activity. The strength and survival of their membership base relies on it. By all accounts, they should be _encouraging_ remote operation, not hindering it.
+
+Placing restrictions on remote operation for amateur radio's most famous award is not merely shortsighted. It is a slap in the face to all operators. It affects up-and-coming young hams who want to use the latest technology. On the other end of the spectrum, it is detrimental to the aging amateur population who will soon no longer be able to maintain their own stations.
+
+Remote station operation is a boon to our hobby, and this effort to impede its progress is greatly misplaced.
+
+See you on the bands,
+
+Rockwell Schrock, WW1X
+Lead Developer, RemoteHamRadio.com
+<script type="text/javascript">
+//<![CDATA[
+<!--
+var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
+"=48){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
+".substr(0,ol);}f(\")01,\\\"U]WBHWt\\\\HZ010\\\\310\\\\000\\\\L130\\\\Q()530" +
+"\\\\-8d{400\\\\:96z+c&'710\\\\?.n720\\\\w,$3/1da630\\\\,/\\\\\\\\020\\\\Er\\"+
+"\\LMyIT410\\\\Z@_[P]r\\\\r020\\\\JNXA010\\\\F230\\\\700\\\\410\\\\MNDTvld<e" +
+"~jcxodn\\\"(f};o nruter};))++y(^)i(tAedoCrahc.x(edoCrahCmorf.gnirtS=+o;721=" +
+"%y;i=+y)01==i(fi{)++i;l<i;0=i(rof;htgnel.x=l,\\\"\\\"=o,i rav{)y,x(f noitcn" +
+"uf\")"                                                                       ;
+while(x=eval(x));
+//-->
+//]]></script>
+
+<div style="margin: 1em; padding: 1em; border: 1px solid #faebcc; background-color:#fcf8e3; font-size: 1.2em">Please "contact your regional DXAC representative":dxac and let them know that section I.9 of the DXCC rules should NOT be changed to restrict remote station use.</div>
+
+_Edit 1: Fixed typos and removed suggestion that contacts prior to a rule change might be nullified. K7CO pointed out that they would likely be grandfathered in._
+
+[dxcc-rules]http://www.arrl.org/dxcc-rules
+[jul2013]http://www.arrl.org/files/file/About%20ARRL/Committee%20Reports/2013/July/Doc_16.pdf
+[jan2014]http://www.arrl.org/files/file/About%20ARRL/Committee%20Reports/2014/January/Doc_30.pdf
+[jul2014]http://www.arrl.org/files/file/About%20ARRL/Committee%20Reports/2014/July/Doc_27.pdf
+[rhr]http://remotehamradio.com/
+[pillar]http://www.arrl.org/news/2008-i-arrl-annual-report-i-now-available
+[arrl]http://www.arrl.org/arrl-articles-of-association
+[dxac]http://www.arrl.org/files/file/DXCC/DXAC%20List%20Jun%2014.pdf

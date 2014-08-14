@@ -8,12 +8,12 @@ end
 desc 'Run the jekyll dev server (default)'
 task :server do
 	system "open http://localhost:4000/"
-  system "jekyll --server --auto"
+  system "jekyll server --watch"
 end
 
 desc 'Clean temporary files and run the server'
 task :compile => [:clean] do
-  system "jekyll"
+  system "jekyll build"
 end
 
 desc 'Deploy to production'
