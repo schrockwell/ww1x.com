@@ -11,7 +11,8 @@ body {
 
 div#hd {
 	height: 166px;
-	background-image: url('/images/banner1.jpg');
+	background-image: url('/images/banner2.jpg');
+	background-size: 950px 175px;
 }
 
 div#hd h1 {
@@ -215,6 +216,11 @@ ul.panels a:hover span {
 }
 
 /*** WaveGuide ***/
+#ipad-thumbs img,
+#iphone-thumbs img,
+img#screenshot {
+	border: 1px solid #ccc;
+}
 
 #ipad-thumbs a {
 	display: block;
@@ -242,6 +248,12 @@ ul.panels a:hover span {
 
 #iphone-thumbs a:hover {
 	padding: 4px 27px;
+}
+
+img#screenshot {
+	max-width: 390px;
+	max-height: 400px;
+	margin-top: 40px;
 }
 
 /*** Resources ***/

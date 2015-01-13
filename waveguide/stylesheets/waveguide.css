@@ -42,3 +42,8 @@ a {
 	cursor: pointer;
 	text-decoration: none;
 }
+
+img#screenshot {
+	max-width: 390px;
+	max-height: 500px;
+}
