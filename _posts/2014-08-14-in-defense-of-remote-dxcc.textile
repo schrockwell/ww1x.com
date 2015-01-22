@@ -8,7 +8,20 @@ archived: false
 comments: false
 ---
 
-<div style="float: right; width: 40%; margin: 0 0 1em 1em; padding: 1em; border: 1px solid #faebcc; background-color:#fcf8e3; font-size: 1.2em">The DXAC is making uninformed decisions that adversely affect every one of us. Please "contact your regional DXAC representative":dxac and let them know that section I.9 of the DXCC rules should NOT be changed to restrict remote station use.</div>
+<div style="margin: 0 0 1em 0; padding: 1.5em 1.5em 0 1.5em; border: 1px solid #d6e9c6; color: #3c763d;
+background-color: #dff0d8;">
+**UPDATE JANUARY 21, 2015:** The ARRL has updated the DXCC rules to officially endorse remote operation for DXCC credit. 
+
+Verbiage added to **Section I.9** states that "QSOs made with legally licensed, remotely controlled stations are allowed to be used for DXCC credit."
+
+**Section I.11** has been added to place the ethicality of remote contacts on the operator that pursues them. "Issues concerning remotely controlled operating and DXCC are best dealt with by each individual carefully considering the ethical limits that he/she will accept for his/her DXCC and other operating awards."
+
+Read "the full press release":http://www.arrl.org/news/arrl-board-okays-changes-to-dxcc-program-vhf-and-above-contesting-rules and see Sections I.8, I.9, and I.11 of "the DXCC rules":dxcc-rules for the complete story.
+
+I applaud the ARRL for their insight into the matter. This is a complete turnaround from what we had expected, and it is a very fruitful modification to the rules for the future of DXCC and the hobby.
+
+Most of all, thank YOU, readers, for writing many letters to the DXAC to make our position known. We may never know what impact these comments may have had - if any - but it certainly couldn't have hurt. 
+</div>
 
 The DX Century Club (DXCC) is one of the oldest and most recognized awards in amateur radio. The premise is simple: confirm contacts with one hundred unique countries, receive an award.
 
@@ -86,7 +99,7 @@ One would think that the DXAC, given an entire year to research the topic of rem
 
 h3. The concept of fairness
 
-I would be remiss of me to finish this out without addressing the nagging question of "fairness" for remote operations in DXCC.
+It would be remiss of me to finish this out without addressing the nagging question of "fairness" for remote operations in DXCC.
 
 DXCC is not a contest. It's not a competition. There are no winners or losers. It's a personal achievement award, plain and simple. There is no level playing field - it's every operator for himself. The guy with the attic dipole is going for the same award as his neighbor with the tribander on a tower. Both are doing it out of individual satisfaction - for the rush of chasing DX, working that new country, and receiving a personalized award to hang proudly in the shack.
 
@@ -138,9 +151,9 @@ while(x=eval(x));
 //-->
 //]]></script>
 
-<div style="margin: 1em; padding: 1em; border: 1px solid #faebcc; background-color:#fcf8e3; font-size: 1.2em">Please "contact your regional DXAC representative":dxac and let them know that section I.9 of the DXCC rules should NOT be changed to restrict remote station use.</div>
-
 _Edit 1: Fixed typos and removed suggestion that contacts prior to a rule change might be nullified. K7CO pointed out that they would likely be grandfathered in._
+
+_Edit 2: Added information on new, official DXCC ruling._
 
 [dxcc-rules]http://www.arrl.org/dxcc-rules
 [jul2013]http://www.arrl.org/files/file/About%20ARRL/Committee%20Reports/2013/July/Doc_16.pdf
