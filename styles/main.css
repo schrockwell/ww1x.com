@@ -191,6 +191,7 @@ ul.panels li {
 
 ul.panels li a {
 	background-position: center;
+	background-size: 385px 200px;
 	display: block;
 	width: 385px;
 	height: 200px;	

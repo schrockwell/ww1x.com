@@ -1,0 +1,29 @@
+---
+layout: post
+title: SOTA Activation of Taylor Mountain
+summary: A breezy northern California adventure
+published: true
+category: sota
+archived: false
+---
+
+p=. <iframe width="640" height="360" src="http://www.youtube.com/embed/ujbZDKyARmU?rel=0" frameborder="0" allowfullscreen></iframe>
+
+|_.Time|_.Call|_.Band|_.Mode|_.Notes|
+|21:10z|KC0ZVN|14MHz|SSB|Gary in AZ|
+|21:20z|N4EX|14MHz|SSB||
+|21:22z|W7RV|14MHz|SSB|AZ|
+|21:25z|VE2JCW|14MHz|SSB||
+|21:27z|W7CNL|14MHz|SSB|ID|
+|21:30z|KF7JQV|14MHz|SSB|WA|
+|21:32z|NS7P|14MHz|SSB|OR|
+|21:35z|W2CRS/M|14MHz|SSB|John in AZ|
+|21:36z|KB1RJD|14MHz|SSB|NH (!!!)|
+|21:37z|NE4TN|14MHz|SSB|TN|
+|21:39z|WB5USB|14MHz|SSB|George in NM|
+|22:22z|AD5HV|21MHz|SSB|Doyle in AR|
+|22:24z|KB4BKR|21MHz|SSB|Scott in TX|
+|22:26z|N8DEA|21MHz|SSB|Weak, almost no copy|
+|22:29z|JA1FXH|21MHz|SSB|Tokyo|
+|22:33z|JH1XVE|21MHz|SSB|Yokohama|
+|22:36z|KD0TKG|21MHz|SSB|Pat in MO|
