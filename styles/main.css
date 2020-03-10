@@ -228,6 +228,7 @@ img#screenshot {
 	float: left;
 	padding: 7px;
 	margin-bottom: 1em;
+	cursor: pointer;
 }
 
 #ipad-thumbs a:hover, 
@@ -245,6 +246,7 @@ img#screenshot {
 	display: block;
 	float: left;
 	padding: 5px 28px;
+	cursor: pointer;
 }
 
 #iphone-thumbs a:hover {
