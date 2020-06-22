@@ -1,3 +1,0 @@
-#! /bin/bash
-
-rsync -Cavz _site/* linode:/srv/www/ww1x.com/public_html

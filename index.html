@@ -49,7 +49,7 @@ layout: main
 		{% for post in site.posts %}
 			{% if post.archived != true %}
 				<li>
-					<a href="{{ post.url }}" style="background-image:url(images/posts/{{ post.date | date format: '%Y-%m-%d' }}.jpg)">
+					<a href="{{ post.url }}" style="background-image:url(images/posts/{{ post.date | date: '%Y-%m-%d' }}.jpg)">
 						<span>{{ post.title }}</span>
 					</a>
 				</li>
